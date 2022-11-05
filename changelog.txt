@@ -1,0 +1,4 @@
+1.18.x Changelog
+======================================================
+ - 0.1  Add the No Logs and Stones Punching feature to the game.
+        Add Flint Hatchet.

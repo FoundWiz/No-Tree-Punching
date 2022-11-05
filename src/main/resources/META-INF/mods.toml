@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+[[mods]]
+modId="notreepunching"
+version="${file.jarVersion}"
+displayName="No Tree Punching (No Additional Features)"
+logoFile="logo.png"
+credits="Khanh Nguyen, jamb"
+authors="FoundWiz"
+description='''
+This mod aims to make the start of the game harder.
+'''
+[[dependencies.notreepunching]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.notreepunching]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
