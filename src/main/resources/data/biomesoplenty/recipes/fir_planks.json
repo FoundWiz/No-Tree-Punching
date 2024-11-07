@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "notreepunching:damage_tools",
+  "ingredients": [
+    {
+      "tag": "biomesoplenty:fir_logs"
+    },
+    {
+      "tag": "minecraft:axes"
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:fir_planks",
+    "count": 4
+  },
+  "group": "planks"
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    }
+  ],
+  "type": "notreepunching:damage_tools",
+  "ingredients": [
+    {
+      "tag": "minecraft:spruce_logs"
+    },
+    {
+      "tag": "minecraft:axes"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spruce_planks",
+    "count": 4
+  },
+  "group": "planks"
+}

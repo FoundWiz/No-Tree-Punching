@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "notreepunching:damage_tools",
+  "ingredients": [
+    {
+      "tag": "biomesoplenty:redwood_logs"
+    },
+    {
+      "tag": "minecraft:axes"
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:redwood_planks",
+    "count": 4
+  },
+  "group": "planks"
+}

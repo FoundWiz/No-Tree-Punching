@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "notreepunching:damage_tools",
+  "ingredients": [
+    {
+      "tag": "biomesoplenty:hellbark_logs"
+    },
+    {
+      "tag": "minecraft:axes"
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:hellbark_planks",
+    "count": 4
+  },
+  "group": "planks"
+}

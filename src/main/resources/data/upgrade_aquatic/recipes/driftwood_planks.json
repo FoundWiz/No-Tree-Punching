@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    }
+  ],
+  "type": "notreepunching:damage_tools",
+  "ingredients": [
+    {
+      "tag": "upgrade_aquatic:driftwood_logs"
+    },
+    {
+      "tag": "minecraft:axes"
+    }
+  ],
+  "result": {
+    "item": "upgrade_aquatic:driftwood_planks",
+    "count": 4
+  },
+  "group": "planks"
+}

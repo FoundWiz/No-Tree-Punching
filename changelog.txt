@@ -1,0 +1,17 @@
+1.1.0 (Release)
+======================================================
+- Additions:
++ Ground is now harder to mine if not holding a shovel.
++ Planks is now also harder to mine if not holding an axe.
+- Updates:
++ Some blocks (e.g. Ice, Netherrack, etc.) are changed to be always mineable.
+
+1.2.0 (Release)
+======================================================
+- Additions:
++ Crafting planks now need an axe.
++ Add compatibilities with some other mods.
+- Updates:
++ Change the always breakable blocks lists.
+- Removal:
++ Remove the extra time taken when mining ground without holding a shovel.

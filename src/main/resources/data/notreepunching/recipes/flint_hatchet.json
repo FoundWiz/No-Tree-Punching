@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "m": {
+      "item": "minecraft:flint"
+    },
+    "f": {
+      "tag": "minecraft:small_flowers"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "mf",
+    " s"
+  ],
+  "result": {
+    "item": "notreepunching:flint_hatchet"
+  }
+}
